@@ -3,7 +3,7 @@ body {
     background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
   }
   .container {
-    background-image:url(weather.jpeg);
+    background-image:url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/068/907/original/clouds-49520_1280.jpg?1677236937);
     top: 200px;
     display: block;
     margin: 0 auto;

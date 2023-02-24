@@ -140,7 +140,7 @@ function sub(event) {
   let apiKey="6caa6b54cfc577ffc9ddc75950d7efc3";
   let urlStart="https://api.openweathermap.org/data/2.5/weather?q=";
   let apiUrl=`${urlStart}abuja&appid=${apiKey}&units=${unit}`;
-  axios.get(apiUrl).then(locationInfo)
+  axios.get(apiUrl).then(locationInfo);
   
   
    
